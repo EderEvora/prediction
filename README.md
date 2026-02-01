@@ -18,7 +18,8 @@ In this project, a Long Short-Term Memory (LSTM) neural network was implemented 
 - yfinance  
 - pandas  
 - matplotlib  
-- scikit-learn  
+- scikit-learn
+- Numpy 
 
 ---
 
